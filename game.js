@@ -70,11 +70,11 @@ class Circle {
               }
              else if(count>=30&&count<40)
              {
-                document.getElementById("canvas").style.backgroundImage="URL('d.jpeg')";
+                document.getElementById("canvas").style.backgroundImage="URL('d.jpg')";
 
              }
              else{
-                document.getElementById("canvas").style.backgroundImage="URL('5.jpeg')";  
+                document.getElementById("canvas").style.backgroundImage="URL('last.jpg')";  
              }
             }
 
